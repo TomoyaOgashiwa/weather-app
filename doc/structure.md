@@ -11,6 +11,7 @@ final-project-alpha/
 │   │── layout/                 # Layout Component (e.g. Header, Footer, etc...)
 │   │── pages/                  # Pages(e.g. Home, Contact, etc...)
 │   ├── global.css              # Global css file including tailwind css configuration
+│   ├── utils/                  # Global function utility file
 │── .gitignore                  # Git ignored files
 │── .prettierrc.json            # Prettier Configuration
 │── astro.config.mjs            # Astro Configuration
